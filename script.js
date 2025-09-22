@@ -144,4 +144,84 @@ const StuLists = [
     description: "Creative and Knowledgeable",
     Goal: "UX/UI Designer",
   },
+  {
+    name: "Emmanuel Segun Alebiosu",
+    description: "The Bookworm📚",
+    Goal: "Library Assistant",
+  },
+  {
+    name:"Oluwatosin Adeniyi",
+    description:"The Theater Kid",
+    Goal:"Performer",
+  },
+  {
+    name:"Ademola Lawrence",
+    description:"The Instagram Aesthetic Guru",
+    Goal:"Social Media Intern",
+  },
+  {
+    name:"Amusat Idris Opeyemi",
+    description:"Always so chill and calm",
+    Goal:"Lab Assistant",
+  },
+  {
+    name:"Alebiosu David",
+    description:"Always Observes👀",
+    Goal:"Medical Doctor",
+  },
+  {
+    name:"Kusimo Esther Oluwaseun",
+    description:"So supportive and funny",
+    Goal:"Financial Analyst",
+  },
+  {
+    name:"Tope Eniola Eyitayo Miracle",
+    description:"Easy-going and calm",
+    Goal:"Microbiologist",
+  },
+  {
+    name:"Fawamide Faith Fisayo",
+    description:"Moves In Silence",
+    Goal:"Digital Marketer",
+  },
+  {
+    name:"Samuel Ololade Akeju",
+    description:"Overthinker,sharp",
+    Goal:"Astronaut",
+  },
+  {
+    name:"Tosin Christianah Olawumi",
+    description:"Great Energy",
+    Goal:"Nurse",
+  },
+  {
+    name:"Michael Olalekan",
+    description:"Always joking😅",
+    Goal:"Biochemist",
+  },
+   {
+    name:"Esther Royalty Akinfolahan",
+    description:"Backend guru",
+    Goal:"Backend Developer",
+  },
+  {
+    name:"Blessing Ifeoma Ezieh",
+    description:"Frontend guru",
+    Goal:"Frontend Developer",
+  },
+  {
+    name:"Bassey David Okon",
+    description:"Social butterfly☺",
+    Goal:"Visual Assistant",
+  },
+  {
+    name:"Fawamide Collins",
+    description:"Always Smiling",
+    Goal:"Banker",
+  },
+  {
+    name:"Adeosun Oluwakemi",
+    description:"Always working seriously",
+    Goal:"Product Manager",
+  },
 ];
